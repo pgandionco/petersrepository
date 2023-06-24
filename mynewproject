@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: black;
+      margin: 0;
+      padding: 0;
+    }
+
+    img {
+      width: 50vw;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://drive.google.com/uc?export=view&id=1bNKZOwxtRl-lAdOobo39o4qVHR_lcq4Q" alt="Image">
+</body>
+</html>
